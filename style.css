@@ -1,0 +1,61 @@
+*{
+	padding: 0px;
+}
+div{
+	text-align: center;
+	padding: 5px;
+	margin-bottom: 40px;
+}
+div.central{
+	margin:auto;
+	max-width:550px;
+	padding: 10px;
+}
+div.header{
+	font-size:25px;
+	font-weight: bold;
+	font-style: italic;
+	background-color: green;
+}
+div.footer{
+	margin: 0px;
+}
+p.errorLogin{
+	
+	background:red;
+	color: white;
+	margin: auto;
+	max-width: 300px;
+}
+footer{
+	text-align: center;
+}
+table,tr,td{
+	margin: auto;
+}
+tr,td{
+	padding: 5px;
+}
+#ibutton{
+	border-radius: 3px;
+	padding: 5px;
+}
+#ibutton:hover{
+	background-color: black;
+	color: white;
+}
+a{
+	text-decoration: none;
+	color: black;
+	font-style: italic;
+	font-weight: bold;
+	font-size: 13px;
+}
+a:hover{
+	color: green;
+}
+input{
+	padding: 3px;
+	border-radius: 3px;
+	border: 1px solid black;
+}
